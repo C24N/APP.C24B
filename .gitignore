@@ -232,3 +232,9 @@ PRIVATE.json5
 /.git
 /.git/*
 /.git/
+
+#
+pack
+pack/
+./pack
+./pack/
